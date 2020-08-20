@@ -1,7 +1,7 @@
 # Base configs
 baseurl: "https://gauravroy48.github.io/BlenderExperiments/"
-image_fulls_loc: "/images"
-image_thumbs_loc: "/images"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
