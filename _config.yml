@@ -1,27 +1,24 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+baseurl: "https://gauravroy48.github.io/BlenderExperiments/"
+image_fulls_loc: "/images"
+image_thumbs_loc: "/images"
+google_analytics: ""
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Blender Projects by Gaurav Roy"
+subtitle: "Daily experiments with Blender!"
+author: "Gaurav Roy"
 header:
- title: "Photography"
- subtitle: "by Ram Patra"
+ title: "Blender Experiments"
+ subtitle: "by Gaurav Roy"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ name: "Hello everyone!"
+ bio: "Welcome to my page where I upload the results of my daily Blender Experiments!"
+ github: "You can also find my project results on <a href=\"https://www.instagram.com/blenderexperiments\">Instagram</a> ;)"
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  instagram: "https://www.instagram.com/blenderexperiments"
+  linkedin: "https://www.linkedin.com/in/gauravroy0408"
+  github: "https://github.com/GauravRoy48"
 
 theme: jekyll-theme-cayman
