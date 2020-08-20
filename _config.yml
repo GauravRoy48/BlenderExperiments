@@ -14,8 +14,8 @@ header:
 footer:
  name: "Hello everyone!"
  bio: "Welcome to my page where I upload the results of my daily Blender Experiments!"
- github: "You can also find my project results on <a href=\"https://www.instagram.com/blenderexperiments\">Instagram</a> ;)"
-web_design: "AJ"
+ github: "You can also find my project results on <a href=\"https://www.instagram.com/blenderexperiments\">Instagram</a> :)"
+web_design: ""
 social_urls:
   instagram: "https://www.instagram.com/blenderexperiments"
   linkedin: "https://www.linkedin.com/in/gauravroy0408"
